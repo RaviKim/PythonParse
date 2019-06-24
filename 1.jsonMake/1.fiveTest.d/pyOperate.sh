@@ -21,4 +21,10 @@ then
 	python json_fiveTest.py 
 fi
 
+if [ $1 = "lotte" ];
+then
+	python ilottemall_crawling.py
+fi
+
+
 echo "끝났습니다..."
