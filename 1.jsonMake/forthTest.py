@@ -22,7 +22,6 @@ def ilottemall_crawling(html):
     """
     temp_list = []
     temp_dict = {}
-    print(html, file=f) 
     #정보 가져오기
    # tr_list = html.select('body > li > p > a')
     tr_list = html.select('body li')
