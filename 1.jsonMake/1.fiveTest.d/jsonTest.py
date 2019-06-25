@@ -40,16 +40,27 @@ def crawling_func(html):
     tr_list = html.select('li')
 
     for tr in tr_list:
-        rank = tr.find('div', {'class':'rank top'})
-        rank = tr.find('div', {'class':'rank'})
-        print(rank, file=cle)
-        print(rank, file=cle)
-        title = tr.find('p', {'class':'txt_name'})
-        price1 = tr.find('span', {'class':'price1'})
-        price2 = tr.find('span', {'class':'price2'})
-        temp_list.append([rank, title, price1, price2])
+        rank = tr.find('div').text
+        #print(rank, file=cle)
+        title = tr.find('p', {'class':'txt_name'}).text
+        #print(title, file=cle)
+        if tr.find('span') is True:
+            if tr.find({'class':'price1'}) is True:
+               price1 = tr.find('span', {'class':'price1'}).text
+               print(price1, file=cle)
+            elif tr.find({'class':'price2'}) is True:
+               price2 = tr.find('span', {'class':'price2'})
+               print(price2, file=cle)
+            elif tr.find({'class':'txt_price'}) is True:
+               price1 = tr.find('span', {'class':'price1'}).text
 
-    return temp_list
+        #print(price2, file=cle)
+        #temp_list.append([rank, title, price1, price2])
+        #temp_list.append([rank, title, price1])
+        #temp_dict[str(rank)] = {'title' : title, 'price1':price1, 'price2':price2}
+        #temp_dict[str(rank)] = {'title' : title, 'price1':price1}
+
+    return temp_list, temp_dict
     
 #Cleaning Function.
 def clean_text(text):
@@ -63,6 +74,11 @@ def clean_text(text):
     # 공백을 삭제하는 코드.
     cleaned_text = " ".join(cleaned_text.split())
     return cleaned_text
+
+def tclen_text(text):
+    clean_text = re.sub('[\t]','',text)
+    return clean_text
+
 
 def makejson(sFileLocation, sFromFileName):
     with open(sFileLocation + sFromFileName, mode="rt", encoding='utf-8')as f:
@@ -91,13 +107,11 @@ def main():
 
     #titles = soup.select('li') #Strong class
     crawling_func(soup)
-"""
+    """
     for title in titles:
         print(title.text, file=f)
         print(clean_text(title.text), file=cle)
-        """
-
-
+    """
     
 if __name__ == '__main__':
     main()

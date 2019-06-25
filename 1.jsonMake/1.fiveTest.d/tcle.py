@@ -11,11 +11,12 @@ OUTPUT_FILE_NAME = 'output_cleand.txt'
 
 # 클리닝 함수
 def clean_text(text):
-    cleaned_text = re.sub('[a-zA-Z]', '', text)
-    cleaned_text = re.sub('[\{\}\[\]\/?.,;:|\)*~`!^\-_+<>@\#$%&\\\=\(\'\"]',
-                          '', cleaned_text)
+    #cleaned_text = re.sub('[a-zA-Z]', '', text)
+    #cleaned_text = re.sub('[\{\}\[\]\/?.,;:|\)*~`!^\-_+<>@\#$%&\\\=\(\'\"]',
+    #                      '', cleaned_text)
     # 공백을 삭제하는 코드.
-    cleaned_text = " ".join(cleaned_text.split())
+    #cleaned_text = " ".join(cleaned_text.split())
+    cleaned_text = re.sub('t', '', text)
     return cleaned_text
      
 # 메인 함수
