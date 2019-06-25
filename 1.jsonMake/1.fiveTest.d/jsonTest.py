@@ -40,13 +40,14 @@ def crawling_func(html):
     tr_list = html.select('li')
 
     for tr in tr_list:
-        rank = int(tr.find('div', {'class':'rank top'}))
-        rank = int(tr.find('div', {'class':'rank'}))
+        rank = tr.find('div', {'class':'rank top'})
+        rank = tr.find('div', {'class':'rank'})
+        print(rank, file=cle)
+        print(rank, file=cle)
         title = tr.find('p', {'class':'txt_name'})
         price1 = tr.find('span', {'class':'price1'})
         price2 = tr.find('span', {'class':'price2'})
         temp_list.append([rank, title, price1, price2])
-
 
     return temp_list
     
