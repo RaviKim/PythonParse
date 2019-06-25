@@ -2,13 +2,11 @@
 """forth Test"""
 """
 Author : HSKIM
-Date : 190620
-Target : ilottemall_url Test
+Date : 190624
+Target :    json Converter 
 Difficult : Easy
-ver 0.0.6
-comment : 1. Test two differ type code. what is more performance to transplant different code.
-           1-1) First check def ilottemall_crawling(html)
-           1-2) Test get_text - read Files 
+ver 0.0.1
+comment :   Make Text File to Json format. 
 """
 from selenium import webdriver
 from bs4 import BeautifulSoup as BS
@@ -22,9 +20,10 @@ import re
 
 f = open('./ilotte_html_test.txt', 'w')
 cle = open('./ilotte_cleaned_test.txt', 'w')
-soup_debug = open('./soup_text.txt','w')
+soup_debug = open('./soup_text.txt', 'w')
 
 fileLocation = "./"
+jsonText = open('./ilotte_json.json','w')
 
 """
 1. URL 부분은 언제든지 변경이 되어질 수 있다.
@@ -32,6 +31,25 @@ fileLocation = "./"
 
 ilottemall_url = 'http://www.lotteimall.com/display/sellRank100GoodsList.lotte'
 
+
+def crawling_func(html):
+    temp_list = []
+    temp_dict = {}
+
+    #tr_list 는 가공되기 전의 상태입니다. 이걸 가공해야합니다.
+    tr_list = html.select('li')
+
+    for tr in tr_list:
+        rank = int(tr.find('div', {'class':'rank top'}))
+        rank = int(tr.find('div', {'class':'rank'}))
+        title = tr.find('p', {'class':'txt_name'})
+        price1 = tr.find('span', {'class':'price1'})
+        price2 = tr.find('span', {'class':'price2'})
+        temp_list.append([rank, title, price1, price2])
+
+
+    return temp_list
+    
 #Cleaning Function.
 def clean_text(text):
     """
@@ -45,6 +63,16 @@ def clean_text(text):
     cleaned_text = " ".join(cleaned_text.split())
     return cleaned_text
 
+def makejson(sFileLocation, sFromFileName):
+    with open(sFileLocation + sFromFileName, mode="rt", encoding='utf-8')as f:
+        stringlist = f.readlines()
+        item = stringlist[0]
+        print(item)
+
+        for item in stringlist:
+            jsonObject = json.loads(item)
+            
+
 
 def main():
     print("ilottemall crawling Start.....") 
@@ -52,15 +80,22 @@ def main():
     r = requests.get(ilottemall_url)
     html = r.text
     
+    temp_list = []
+    temp_dict = {}
+
     # 읽은 html파일 처리
     soup = BS(html, 'html.parser')
     print(soup, file=soup_debug)
 
 
-    titles = soup.select('li') #Strong class
+    #titles = soup.select('li') #Strong class
+    crawling_func(soup)
+"""
     for title in titles:
         print(title.text, file=f)
         print(clean_text(title.text), file=cle)
+        """
+
 
     
 if __name__ == '__main__':
