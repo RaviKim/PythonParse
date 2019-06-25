@@ -44,6 +44,7 @@ def crawling_func(html):
         #print(rank, file=cle)
         title = tr.find('p', {'class':'txt_name'}).text
         #print(title, file=cle)
+        """
         if tr.find('span') is True:
             if tr.find({'class':'price1'}) is True:
                price1 = tr.find('span', {'class':'price1'}).text
@@ -53,12 +54,20 @@ def crawling_func(html):
                print(price2, file=cle)
             elif tr.find({'class':'txt_price'}) is True:
                price1 = tr.find('span', {'class':'price1'}).text
+        """
+        price1 = tr.find('span', {'class':'price1'}).text
+        try:
+            price2 = tr.find('span', {'class':'price2'}).text
+        except AttributeError:
+            price2 = None
+            pass
 
-        #print(price2, file=cle)
+
+        print(price2, file=cle)
         #temp_list.append([rank, title, price1, price2])
-        #temp_list.append([rank, title, price1])
+        temp_list.append([rank, title, price1])
         #temp_dict[str(rank)] = {'title' : title, 'price1':price1, 'price2':price2}
-        #temp_dict[str(rank)] = {'title' : title, 'price1':price1}
+        temp_dict[str(rank)] = {'title' : title, 'price1':price1}
 
     return temp_list, temp_dict
     
