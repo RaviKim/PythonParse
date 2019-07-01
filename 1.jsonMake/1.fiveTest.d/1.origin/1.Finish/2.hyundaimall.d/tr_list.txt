@@ -1,0 +1,1922 @@
+[<div class="raking weekly">
+<ul class="carouselUL">
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2081498123">
+<em class="rank-number">1</em>
+<span class="pdtImg2" data="2081498123:1009"><img alt="[J by(제이바이)](TV홈쇼핑상품)워싱코튼100 원피스1종" class="item-img" src="http://image.hyundaihmall.com/static/1/8/49/81/2081498123_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">[J by(제이바이)](TV홈쇼핑상품)워싱코튼100 원피스1종</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>32,760</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<strong class="review">상품평 <em class="review-count">69<input name="review_id" type="hidden" value="1009:2081498123:N"/></em></strong>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2081499045">
+<em class="rank-number">2</em>
+<span class="pdtImg2" data="2081499045:1009"><img alt="[J by(제이바이)](TV홈쇼핑상품)산소팬츠2종" class="item-img" src="http://image.hyundaihmall.com/static/0/9/49/81/2081499045_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">[J by(제이바이)](TV홈쇼핑상품)산소팬츠2종</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>41,920</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<strong class="review">상품평 <em class="review-count">1<input name="review_id" type="hidden" value="1009:2081499045:N"/></em></strong>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2081502231">
+<em class="rank-number">3</em>
+<span class="pdtImg2" data="2081502231:1009"><img alt="[J by(제이바이)](TV홈쇼핑상품)비비에 썸머 팬츠2종" class="item-img" src="http://image.hyundaihmall.com/static/2/2/50/81/2081502231_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">[J by(제이바이)](TV홈쇼핑상품)비비에 썸머 팬츠2종</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>32,760</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<strong class="review">상품평 <em class="review-count">57<input name="review_id" type="hidden" value="1009:2081502231:N"/></em></strong>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2081501613">
+<em class="rank-number">4</em>
+<span class="pdtImg2" data="2081501613:1009"><img alt="[J by(제이바이)](TV홈쇼핑상품)로에 썸머 블라우스4종" class="item-img" src="http://image.hyundaihmall.com/static/6/1/50/81/2081501613_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">[J by(제이바이)](TV홈쇼핑상품)로에 썸머 블라우스4종</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>33,520</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<strong class="review">상품평 <em class="review-count">805<input name="review_id" type="hidden" value="1009:2081501613:N"/></em></strong>
+</span>
+</a>
+</li>
+<li class="last-item">
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2081499167">
+<em class="rank-number">5</em>
+<span class="pdtImg2" data="2081499167:1009"><img alt="[J by(제이바이)](TV홈쇼핑상품)실크코튼티셔츠4종" class="item-img" src="http://image.hyundaihmall.com/static/1/9/49/81/2081499167_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">[J by(제이바이)](TV홈쇼핑상품)실크코튼티셔츠4종</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>50,320</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<strong class="review">상품평 <em class="review-count">3,382<input name="review_id" type="hidden" value="1009:2081499167:N"/></em></strong>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2081500739">
+<em class="rank-number">6</em>
+<span class="pdtImg2" data="2081500739:1009"><img alt="[J by(제이바이)](TV홈쇼핑상품)라이트 메모리얼 썸머 자켓1종" class="item-img" src="http://image.hyundaihmall.com/static/7/0/50/81/2081500739_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">[J by(제이바이)](TV홈쇼핑상품)라이트 메모리얼 썸머 자켓1종</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>32,760</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<strong class="review">상품평 <em class="review-count">58<input name="review_id" type="hidden" value="1009:2081500739:N"/></em></strong>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2078622716">
+<em class="rank-number">7</em>
+<span class="pdtImg2" data="2078622716:1009"><img alt="헤지스남성 WHTS8B433WT 컬러배색 면 반팔티셔츠" class="item-img" src="http://image.hyundaihmall.com/static/7/2/62/78/2078622716_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">헤지스남성 WHTS8B433WT 컬러배색 면 반팔티셔츠</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>70,430</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<strong class="review">상품평 <em class="review-count">1<input name="review_id" type="hidden" value="1009:2078622716:N"/></em></strong>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2081502497">
+<em class="rank-number">8</em>
+<span class="pdtImg2" data="2081502497:1009"><img alt="[J by(제이바이)](TV홈쇼핑상품)세라비 컬렉션 3pcs" class="item-img" src="http://image.hyundaihmall.com/static/4/2/50/81/2081502497_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">[J by(제이바이)](TV홈쇼핑상품)세라비 컬렉션 3pcs</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>41,160</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<strong class="review">상품평 <em class="review-count">95<input name="review_id" type="hidden" value="1009:2081502497:N"/></em></strong>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2081138809">
+<em class="rank-number">9</em>
+<span class="pdtImg2" data="2081138809:1009"><img alt="[더일마][theilma] 드로스트링 플레어 드레스" class="item-img" src="http://image.hyundaihmall.com/static/8/8/13/81/2081138809_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">[더일마][theilma] 드로스트링 플레어 드레스</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>113,050</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<span class="flag none"></span>
+</span>
+</a>
+</li>
+<li class="last-item">
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2078622751">
+<em class="rank-number">10</em>
+<span class="pdtImg2" data="2078622751:1009"><img alt="헤지스남성 WHTS8B433P1 컬러배색 면 반팔카라티셔츠" class="item-img" src="http://image.hyundaihmall.com/static/7/2/62/78/2078622751_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">헤지스남성 WHTS8B433P1 컬러배색 면 반팔카라티셔츠</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>70,430</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<strong class="review">상품평 <em class="review-count">1<input name="review_id" type="hidden" value="1009:2078622751:N"/></em></strong>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2079778702">
+<em class="rank-number">11</em>
+<span class="pdtImg2" data="2079778702:1009"><img alt="[리스트] 19SS 골드라벨 린넨 노카라 반팔 재킷_TWWJKJ63030" class="item-img" src="http://image.hyundaihmall.com/static/7/8/77/79/2079778702_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">[리스트] 19SS 골드라벨 린넨 노카라 반팔 재킷_TWWJKJ63030</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>74,250</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<span class="flag none"></span>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2077093215">
+<em class="rank-number">12</em>
+<span class="pdtImg2" data="2077093215:1009"><img alt="헤지스레이디스 WSSH8BS05B1 퍼피자수 린넨 긴팔셔츠" class="item-img" src="http://image.hyundaihmall.com/static/2/3/09/77/2077093215_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">헤지스레이디스 WSSH8BS05B1 퍼피자수 린넨 긴팔셔츠</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>73,470</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<strong class="review">상품평 <em class="review-count">1<input name="review_id" type="hidden" value="1009:2077093215:N"/></em></strong>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2082606837">
+<em class="rank-number">13</em>
+<span class="pdtImg2" data="2082606837:1009"><img alt="(TV홈쇼핑상품/무료배송) 모나코비 코튼 60수 고밀도 셔츠 블라우스 3종 택1" class="item-img" src="http://image.hyundaihmall.com/static/8/6/60/82/2082606837_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">(TV홈쇼핑상품/무료배송) 모나코비 코튼 60수 고밀도 셔츠 블라우스 3종 택1</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>17,100</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<strong class="review">상품평 <em class="review-count">2<input name="review_id" type="hidden" value="1009:2082606837:N"/></em></strong>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2077105214">
+<em class="rank-number">14</em>
+<span class="pdtImg2" data="2077105214:1009"><img alt="헤지스남성 WHPA8B040I2 단색 면혼방 일자핏팬츠" class="item-img" src="http://image.hyundaihmall.com/static/2/5/10/77/2077105214_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">헤지스남성 WHPA8B040I2 단색 면혼방 일자핏팬츠</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>73,850</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<strong class="review">상품평 <em class="review-count">3<input name="review_id" type="hidden" value="1009:2077105214:N"/></em></strong>
+</span>
+</a>
+</li>
+<li class="last-item">
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2076075880">
+<em class="rank-number">15</em>
+<span class="pdtImg2" data="2076075880:1009"><img alt="헤지스남성 HZTS9B402B2 퍼피로고 면혼방 반팔카라티셔츠" class="item-img" src="http://image.hyundaihmall.com/static/8/5/07/76/2076075880_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">헤지스남성 HZTS9B402B2 퍼피로고 면혼방 반팔카라티셔츠</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>66,640</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<strong class="review">상품평 <em class="review-count">1<input name="review_id" type="hidden" value="1009:2076075880:N"/></em></strong>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2078623249">
+<em class="rank-number">16</em>
+<span class="pdtImg2" data="2078623249:1009"><img alt="헤지스남성 WHTS8B831N2 컬러블록 면 반팔카라티셔츠" class="item-img" src="http://image.hyundaihmall.com/static/2/3/62/78/2078623249_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">헤지스남성 WHTS8B831N2 컬러블록 면 반팔카라티셔츠</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>40,030</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<strong class="review">상품평 <em class="review-count">1<input name="review_id" type="hidden" value="1009:2078623249:N"/></em></strong>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2081141948">
+<em class="rank-number">17</em>
+<span class="pdtImg2" data="2081141948:1009"><img alt="[더일마][theilma] 스트라이프 태슬 디테일 드레스" class="item-img" src="http://image.hyundaihmall.com/static/9/1/14/81/2081141948_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">[더일마][theilma] 스트라이프 태슬 디테일 드레스</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>132,050</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<span class="flag none"></span>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2081008793">
+<em class="rank-number">18</em>
+<span class="pdtImg2" data="2081008793:1009"><img alt="헤지스남성 HZTS9B051N2 컬러배색 면혼방 반팔카라티셔츠" class="item-img" src="http://image.hyundaihmall.com/static/7/8/00/81/2081008793_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">헤지스남성 HZTS9B051N2 컬러배색 면혼방 반팔카라티셔츠</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>76,760</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<strong class="review">상품평 <em class="review-count">1<input name="review_id" type="hidden" value="1009:2081008793:N"/></em></strong>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2077171372">
+<em class="rank-number">19</em>
+<span class="pdtImg2" data="2077171372:1009"><img alt="헤지스남성 HZTS9B432N2 헨리넥 면 반팔티셔츠" class="item-img" src="http://image.hyundaihmall.com/static/3/1/17/77/2077171372_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">헤지스남성 HZTS9B432N2 헨리넥 면 반팔티셔츠</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>72,240</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<span class="flag none"></span>
+</span>
+</a>
+</li>
+<li class="last-item">
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2074748066">
+<em class="rank-number">20</em>
+<span class="pdtImg2" data="2074748066:1009"><img alt="헤지스레이디스 HSSW9A151G1 단색 울 니트가디건" class="item-img" src="http://image.hyundaihmall.com/static/0/8/74/74/2074748066_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">헤지스레이디스 HSSW9A151G1 단색 울 니트가디건</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>106,070</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<strong class="review">상품평 <em class="review-count">2<input name="review_id" type="hidden" value="1009:2074748066:N"/></em></strong>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2081002887">
+<em class="rank-number">21</em>
+<span class="pdtImg2" data="2081002887:1009"><img alt="헤지스레이디스 WSDR8B601N2 라인배색 반팔원피스" class="item-img" src="http://image.hyundaihmall.com/static/8/2/00/81/2081002887_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">헤지스레이디스 WSDR8B601N2 라인배색 반팔원피스</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>152,490</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<span class="flag none"></span>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2079778742">
+<em class="rank-number">22</em>
+<span class="pdtImg2" data="2079778742:1009"><img alt="[리스트] 19SS 골드라벨 타이 셔링넥 프린트 블라우스_TWWBLJ63020" class="item-img" src="http://image.hyundaihmall.com/static/7/8/77/79/2079778742_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">[리스트] 19SS 골드라벨 타이 셔링넥 프린트 블라우스_TWWBLJ63020</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>29,250</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<span class="flag none"></span>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2081005889">
+<em class="rank-number">23</em>
+<span class="pdtImg2" data="2081005889:1009"><img alt="헤지스레이디스 HSPA9B773N3 [인생슬랙스] 트임 와이드 슬랙스" class="item-img" src="http://image.hyundaihmall.com/static/8/5/00/81/2081005889_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">헤지스레이디스 HSPA9B773N3 [인생슬랙스] 트임 와이드 슬랙스</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>87,850</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<strong class="review">상품평 <em class="review-count">1<input name="review_id" type="hidden" value="1009:2081005889:N"/></em></strong>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2079963311">
+<em class="rank-number">24</em>
+<span class="pdtImg2" data="2079963311:1009"><img alt="[오즈세컨] 면 레터링 반소매 티셔츠 O21J4TTO071WVL" class="item-img" src="http://image.hyundaihmall.com/static/3/3/96/79/2079963311_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">[오즈세컨] 면 레터링 반소매 티셔츠 O21J4TTO071WVL</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>65,170</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<strong class="review">상품평 <em class="review-count">2<input name="review_id" type="hidden" value="1009:2079963311:N"/></em></strong>
+</span>
+</a>
+</li>
+<li class="last-item">
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2074455201">
+<em class="rank-number">25</em>
+<span class="pdtImg2" data="2074455201:1009"><img alt="진도 Klever 테일러드 카라 리버서블 무스탕 코트(K2W3BC34)" class="item-img" src="http://image.hyundaihmall.com/static/2/5/45/74/2074455201_0_300.JPG"/></span>
+<span class="item-point"></span>
+<span class="item-name">진도 Klever 테일러드 카라 리버서블 무스탕 코트(K2W3BC34)</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>621,000</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<strong class="review">상품평 <em class="review-count">1<input name="review_id" type="hidden" value="1009:2074455201:N"/></em></strong>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2082606827">
+<em class="rank-number">26</em>
+<span class="pdtImg2" data="2082606827:1009"><img alt="(TV홈쇼핑상품/무료배송) NNF 텐셀 크롭 와이드 데님팬츠 2종" class="item-img" src="http://image.hyundaihmall.com/static/8/6/60/82/2082606827_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">(TV홈쇼핑상품/무료배송) NNF 텐셀 크롭 와이드 데님팬츠 2종</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>44,100</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<span class="flag none"></span>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2079356118">
+<em class="rank-number">27</em>
+<span class="pdtImg2" data="2079356118:1009"><img alt="[타미힐피거] [여성] 면혼방 솔리드 롱 피케 원피스 TFMT1OZE80A0 B60" class="item-img" src="http://image.hyundaihmall.com/static/1/6/35/79/2079356118_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">[타미힐피거] [여성] 면혼방 솔리드 롱 피케 원피스 TFMT1OZE80A0 B60</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>116,100</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<span class="flag none"></span>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2076088406">
+<em class="rank-number">28</em>
+<span class="pdtImg2" data="2076088406:1009"><img alt="헤지스남성 HZTS9B901P2 퍼피자수 면 반팔티셔츠" class="item-img" src="http://image.hyundaihmall.com/static/4/8/08/76/2076088406_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">헤지스남성 HZTS9B901P2 퍼피자수 면 반팔티셔츠</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>29,160</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<span class="flag none"></span>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2068382577">
+<em class="rank-number">29</em>
+<span class="pdtImg2" data="2068382577:1009"><img alt="[쉬즈미스] 케스케이스 러플 도트 스커트_SWWSKI20090" class="item-img" src="http://image.hyundaihmall.com/static/5/2/38/68/2068382577_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">[쉬즈미스] 케스케이스 러플 도트 스커트_SWWSKI20090</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>35,100</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<span class="flag none"></span>
+</span>
+</a>
+</li>
+<li class="last-item">
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2077026072">
+<em class="rank-number">30</em>
+<span class="pdtImg2" data="2077026072:1009"><img alt="헤지스레이디스 WSTS8BS09N2 프린트패턴 면혼방 반팔원피스" class="item-img" src="http://image.hyundaihmall.com/static/0/6/02/77/2077026072_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">헤지스레이디스 WSTS8BS09N2 프린트패턴 면혼방 반팔원피스</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>85,780</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<span class="flag none"></span>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2077905300">
+<em class="rank-number">31</em>
+<span class="pdtImg2" data="2077905300:1009"><img alt="헤지스남성 HZTS9B005N2 헨리넥 면혼방 반팔티셔츠" class="item-img" src="http://image.hyundaihmall.com/static/3/5/90/77/2077905300_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">헤지스남성 HZTS9B005N2 헨리넥 면혼방 반팔티셔츠</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>82,560</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<span class="flag none"></span>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2082222392">
+<em class="rank-number">32</em>
+<span class="pdtImg2" data="2082222392:1009"><img alt="W몰 에고이스트 수술장식 와이드 점프수트 EK2WP166" class="item-img" src="http://image.hyundaihmall.com/static/3/2/22/82/2082222392_0_300.jpg"/></span>
+<span class="item-point">W몰 에고이스트</span>
+<span class="item-name">W몰 에고이스트 수술장식 와이드 점프수트 EK2WP166</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>판매가</span> <strong>187,600</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<span class="flag none"></span>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2082091790">
+<em class="rank-number">33</em>
+<span class="pdtImg2" data="2082091790:1009"><img alt="[지컷] 잼언니 원피스 2탄 셔링 포인트 시스루 원피스 7259337504199" class="item-img" src="http://image.hyundaihmall.com/static/7/1/09/82/2082091790_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">[지컷] 잼언니 원피스 2탄 셔링 포인트 시스루 원피스 7259337504199</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>83,310</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<span class="flag none"></span>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2082033336">
+<em class="rank-number">34</em>
+<span class="pdtImg2" data="2082033336:1009"><img alt="[지컷] 잼언니 원피스 2탄 셔링 포인트 시스루 원피스 7259337504110" class="item-img" src="http://image.hyundaihmall.com/static/3/3/03/82/2082033336_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">[지컷] 잼언니 원피스 2탄 셔링 포인트 시스루 원피스 7259337504110</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>83,310</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<span class="flag none"></span>
+</span>
+</a>
+</li>
+<li class="last-item">
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2080921978">
+<em class="rank-number">35</em>
+<span class="pdtImg2" data="2080921978:1009"><img alt="[베네통] 에스닉 패턴 파인애플 프린팅 슬리브리스 롱원피스 BAOPB1931 2001아울렛중계" class="item-img" src="http://image.hyundaihmall.com/static/9/1/92/80/2080921978_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">[베네통] 에스닉 패턴 파인애플 프린팅 슬리브리스 롱원피스 BAOPB1931 2001아울렛중계</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>판매가</span> <strong>173,400</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<strong class="review">상품평 <em class="review-count">2<input name="review_id" type="hidden" value="1009:2080921978:N"/></em></strong>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2078182239">
+<em class="rank-number">36</em>
+<span class="pdtImg2" data="2078182239:1009"><img alt="EnC 컬러 레터링 반팔 티셔츠 ENLW92431N" class="item-img" src="http://image.hyundaihmall.com/static/2/2/18/78/2078182239_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">EnC 컬러 레터링 반팔 티셔츠 ENLW92431N</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>23,400</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<strong class="review">상품평 <em class="review-count">2<input name="review_id" type="hidden" value="1009:2078182239:N"/></em></strong>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2077026380">
+<em class="rank-number">37</em>
+<span class="pdtImg2" data="2077026380:1009"><img alt="헤지스레이디스 WSSH8BS90B2 스트라이프 린넨 반팔셔츠" class="item-img" src="http://image.hyundaihmall.com/static/3/6/02/77/2077026380_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">헤지스레이디스 WSSH8BS90B2 스트라이프 린넨 반팔셔츠</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>69,360</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<strong class="review">상품평 <em class="review-count">1<input name="review_id" type="hidden" value="1009:2077026380:N"/></em></strong>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2077171375">
+<em class="rank-number">38</em>
+<span class="pdtImg2" data="2077171375:1009"><img alt="헤지스남성 HZTS9B544T2 스트라이프 면 반팔카라티셔츠" class="item-img" src="http://image.hyundaihmall.com/static/3/1/17/77/2077171375_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">헤지스남성 HZTS9B544T2 스트라이프 면 반팔카라티셔츠</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>72,240</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<span class="flag none"></span>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2081445610">
+<em class="rank-number">39</em>
+<span class="pdtImg2" data="2081445610:1009"><img alt="[포이]비스코스 인견 롱슬립" class="item-img" src="http://image.hyundaihmall.com/static/6/5/44/81/2081445610_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">[포이]비스코스 인견 롱슬립</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>11,870</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<strong class="review">상품평 <em class="review-count">1<input name="review_id" type="hidden" value="1009:2081445610:N"/></em></strong>
+</span>
+</a>
+</li>
+<li class="last-item">
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2081726306">
+<em class="rank-number">40</em>
+<span class="pdtImg2" data="2081726306:1009"><img alt="헤지스레이디스 HSDR9B776N3 [인생한벌] 레터링자수 면 반팔원피스" class="item-img" src="http://image.hyundaihmall.com/static/3/6/72/81/2081726306_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">헤지스레이디스 HSDR9B776N3 [인생한벌] 레터링자수 면 반팔원피스</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>117,430</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<span class="flag none"></span>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2081005312">
+<em class="rank-number">41</em>
+<span class="pdtImg2" data="2081005312:1009"><img alt="헤지스레이디스 HSPA9B770BK [인생슬랙스] 스트레이트 슬랙스" class="item-img" src="http://image.hyundaihmall.com/static/3/5/00/81/2081005312_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">헤지스레이디스 HSPA9B770BK [인생슬랙스] 스트레이트 슬랙스</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>108,120</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<strong class="review">상품평 <em class="review-count">1<input name="review_id" type="hidden" value="1009:2081005312:N"/></em></strong>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2077892638">
+<em class="rank-number">42</em>
+<span class="pdtImg2" data="2077892638:1009"><img alt="헤지스레이디스 WSTS8BS23N2 스트라이프 면 반팔티셔츠" class="item-img" src="http://image.hyundaihmall.com/static/6/2/89/77/2077892638_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">헤지스레이디스 WSTS8BS23N2 스트라이프 면 반팔티셔츠</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>45,150</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<strong class="review">상품평 <em class="review-count">1<input name="review_id" type="hidden" value="1009:2077892638:N"/></em></strong>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2077893463">
+<em class="rank-number">43</em>
+<span class="pdtImg2" data="2077893463:1009"><img alt="헤지스레이디스 WSTS8BS05P1 퍼피자수 면혼방 반팔카라티셔츠" class="item-img" src="http://image.hyundaihmall.com/static/4/3/89/77/2077893463_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">헤지스레이디스 WSTS8BS05P1 퍼피자수 면혼방 반팔카라티셔츠</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>58,830</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<span class="flag none"></span>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2081501182">
+<em class="rank-number">44</em>
+<span class="pdtImg2" data="2081501182:1009"><img alt="[J by(제이바이)](TV홈쇼핑상품)런던투피스" class="item-img" src="http://image.hyundaihmall.com/static/1/1/50/81/2081501182_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">[J by(제이바이)](TV홈쇼핑상품)런던투피스</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>32,760</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<strong class="review">상품평 <em class="review-count">616<input name="review_id" type="hidden" value="1009:2081501182:N"/></em></strong>
+</span>
+</a>
+</li>
+<li class="last-item">
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2081285194">
+<em class="rank-number">45</em>
+<span class="pdtImg2" data="2081285194:1009"><img alt="[더일마][theilma] 크링클 와이드 레그 핏 트라우저" class="item-img" src="http://image.hyundaihmall.com/static/1/5/28/81/2081285194_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">[더일마][theilma] 크링클 와이드 레그 핏 트라우저</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>113,050</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<span class="flag none"></span>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2081503408">
+<em class="rank-number">46</em>
+<span class="pdtImg2" data="2081503408:1009"><img alt="[J by(제이바이)](TV홈쇼핑상품)시그니처 팬츠1종" class="item-img" src="http://image.hyundaihmall.com/static/4/3/50/81/2081503408_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">[J by(제이바이)](TV홈쇼핑상품)시그니처 팬츠1종</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>24,360</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<strong class="review">상품평 <em class="review-count">76<input name="review_id" type="hidden" value="1009:2081503408:N"/></em></strong>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2077879782">
+<em class="rank-number">47</em>
+<span class="pdtImg2" data="2077879782:1009"><img alt="[올리비에스클로젯]썸머추천 블라우스/원피스 28종택일_[O1904CO009BHM]" class="item-img" src="http://image.hyundaihmall.com/static/7/9/87/77/2077879782_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">[올리비에스클로젯]썸머추천 블라우스/원피스 28종택일_[O1904CO009BHM]</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>15,750</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<span class="flag none"></span>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2081461969">
+<em class="rank-number">48</em>
+<span class="pdtImg2" data="2081461969:1009"><img alt="[본사직영][KEITH][키이스] 원피스 KNM3980" class="item-img" src="http://image.hyundaihmall.com/static/9/1/46/81/2081461969_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">[본사직영][KEITH][키이스] 원피스 KNM3980</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>454,770</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<span class="flag none"></span>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2079579947">
+<em class="rank-number">49</em>
+<span class="pdtImg2" data="2079579947:1009"><img alt="헤지스레이디스 HSPA9B777B2 [헤지스x이나피스퀘어]이나피 숏츠" class="item-img" src="http://image.hyundaihmall.com/static/9/9/57/79/2079579947_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">헤지스레이디스 HSPA9B777B2 [헤지스x이나피스퀘어]이나피 숏츠</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>88,660</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<strong class="review">상품평 <em class="review-count">3<input name="review_id" type="hidden" value="1009:2079579947:N"/></em></strong>
+</span>
+</a>
+</li>
+<li class="last-item">
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2069040529">
+<em class="rank-number">50</em>
+<span class="pdtImg2" data="2069040529:1009"><img alt="[시슬리] 프릴 골지 니트 티셔츠_SAKC70841GN" class="item-img" src="http://image.hyundaihmall.com/static/5/0/04/69/2069040529_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">[시슬리] 프릴 골지 니트 티셔츠_SAKC70841GN</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>79,200</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<span class="flag none"></span>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2081030624">
+<em class="rank-number">51</em>
+<span class="pdtImg2" data="2081030624:1009"><img alt="헤지스레이디스 HSDR9B413N2 패턴 민소매원피스" class="item-img" src="http://image.hyundaihmall.com/static/6/0/03/81/2081030624_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">헤지스레이디스 HSDR9B413N2 패턴 민소매원피스</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>237,320</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<strong class="review">상품평 <em class="review-count">1<input name="review_id" type="hidden" value="1009:2081030624:N"/></em></strong>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2076903019">
+<em class="rank-number">52</em>
+<span class="pdtImg2" data="2076903019:1009"><img alt="[타미힐피거] [여성] 코튼 박시핏 스트라이프 티셔츠 TFMT1KOE41A0 B60" class="item-img" src="http://image.hyundaihmall.com/static/0/3/90/76/2076903019_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">[타미힐피거] [여성] 코튼 박시핏 스트라이프 티셔츠 TFMT1KOE41A0 B60</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>47,520</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<span class="flag none"></span>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2082172330">
+<em class="rank-number">53</em>
+<span class="pdtImg2" data="2082172330:1009"><img alt="[오즈세컨] 크루넥 티어 원피스 O21J5WOP577WLY" class="item-img" src="http://image.hyundaihmall.com/static/3/2/17/82/2082172330_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">[오즈세컨] 크루넥 티어 원피스 O21J5WOP577WLY</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>264,670</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<span class="flag none"></span>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2078114597">
+<em class="rank-number">54</em>
+<span class="pdtImg2" data="2078114597:1009"><img alt="[오즈세컨] 면 혼방 포켓 포인트 반소매 원피스 O21J4WOP564WOL" class="item-img" src="http://image.hyundaihmall.com/static/5/4/11/78/2078114597_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">[오즈세컨] 면 혼방 포켓 포인트 반소매 원피스 O21J4WOP564WOL</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>264,670</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<span class="flag none"></span>
+</span>
+</a>
+</li>
+<li class="last-item">
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2077905932">
+<em class="rank-number">55</em>
+<span class="pdtImg2" data="2077905932:1009"><img alt="헤지스남성 HZSH9B501N2 버튼다운 면 반팔캐주얼셔츠" class="item-img" src="http://image.hyundaihmall.com/static/9/5/90/77/2077905932_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">헤지스남성 HZSH9B501N2 버튼다운 면 반팔캐주얼셔츠</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>77,840</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<span class="flag none"></span>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2081077223">
+<em class="rank-number">56</em>
+<span class="pdtImg2" data="2081077223:1009"><img alt="[더일마][theilma] 더일마 화이트 버클 재킷 " class="item-img" src="http://image.hyundaihmall.com/static/2/7/07/81/2081077223_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">[더일마][theilma] 더일마 화이트 버클 재킷 </span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>246,050</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<span class="flag none"></span>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2080791137">
+<em class="rank-number">57</em>
+<span class="pdtImg2" data="2080791137:1009"><img alt="[본사직영][KEITH][키이스] 바지 KAM3976" class="item-img" src="http://image.hyundaihmall.com/static/1/1/79/80/2080791137_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">[본사직영][KEITH][키이스] 바지 KAM3976</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>240,870</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<span class="flag none"></span>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2080791113">
+<em class="rank-number">58</em>
+<span class="pdtImg2" data="2080791113:1009"><img alt="[본사직영][KEITH][키이스] 블라우스 KBM3969" class="item-img" src="http://image.hyundaihmall.com/static/1/1/79/80/2080791113_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">[본사직영][KEITH][키이스] 블라우스 KBM3969</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>240,870</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<span class="flag none"></span>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2078199968">
+<em class="rank-number">59</em>
+<span class="pdtImg2" data="2078199968:1009"><img alt="W몰 에고이스트 주름치마 니트 원피스 EJ2KO460" class="item-img" src="http://image.hyundaihmall.com/static/9/9/19/78/2078199968_0_300.jpg"/></span>
+<span class="item-point">W몰 에고이스트</span>
+<span class="item-name">W몰 에고이스트 주름치마 니트 원피스 EJ2KO460</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>판매가</span> <strong>243,600</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<span class="flag none"></span>
+</span>
+</a>
+</li>
+<li class="last-item">
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2078623511">
+<em class="rank-number">60</em>
+<span class="pdtImg2" data="2078623511:1009"><img alt="헤지스남성 WHSH8B862N2 패턴블록 린넨혼방 반팔캐주얼셔츠" class="item-img" src="http://image.hyundaihmall.com/static/5/3/62/78/2078623511_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">헤지스남성 WHSH8B862N2 패턴블록 린넨혼방 반팔캐주얼셔츠</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>75,500</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<strong class="review">상품평 <em class="review-count">1<input name="review_id" type="hidden" value="1009:2078623511:N"/></em></strong>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2077070167">
+<em class="rank-number">61</em>
+<span class="pdtImg2" data="2077070167:1009"><img alt="[본사직영][GIVY][기비 블루라벨] 원피스 GNM39B2" class="item-img" src="http://image.hyundaihmall.com/static/1/0/07/77/2077070167_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">[본사직영][GIVY][기비 블루라벨] 원피스 GNM39B2</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>판매가</span> <strong>239,000</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<span class="flag none"></span>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2079571628">
+<em class="rank-number">62</em>
+<span class="pdtImg2" data="2079571628:1009"><img alt="[오즈세컨] 면 펀칭 헨리넥 블라우스 O21J5WBL471WWT" class="item-img" src="http://image.hyundaihmall.com/static/6/1/57/79/2079571628_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">[오즈세컨] 면 펀칭 헨리넥 블라우스 O21J5WBL471WWT</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>224,770</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<span class="flag none"></span>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2064511080">
+<em class="rank-number">63</em>
+<span class="pdtImg2" data="2064511080:1009"><img alt="[타미힐피거진][여성] 린넨 블렌드 가디건 TUMS1WAE60D0 N10" class="item-img" src="http://image.hyundaihmall.com/static/0/1/51/64/2064511080_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">[타미힐피거진][여성] 린넨 블렌드 가디건 TUMS1WAE60D0 N10</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>판매가</span> <strong>77,500</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<strong class="review">상품평 <em class="review-count">3<input name="review_id" type="hidden" value="1009:2064511080:N"/></em></strong>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2077916888">
+<em class="rank-number">64</em>
+<span class="pdtImg2" data="2077916888:1009"><img alt="닥스숙녀 네이비 단색 오픈형가디건 WKSW8B003N3" class="item-img" src="http://image.hyundaihmall.com/static/8/6/91/77/2077916888_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">닥스숙녀 네이비 단색 오픈형가디건 WKSW8B003N3</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>191,370</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<strong class="review">상품평 <em class="review-count">1<input name="review_id" type="hidden" value="1009:2077916888:N"/></em></strong>
+</span>
+</a>
+</li>
+<li class="last-item">
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2065160366">
+<em class="rank-number">65</em>
+<span class="pdtImg2" data="2065160366:1009"><img alt="헤지스레이디스 HSDR8B503N3 스트라이프 면혼방 반팔원피스" class="item-img" src="http://image.hyundaihmall.com/static/3/0/16/65/2065160366_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">헤지스레이디스 HSDR8B503N3 스트라이프 면혼방 반팔원피스</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>182,500</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<span class="flag none"></span>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2081726193">
+<em class="rank-number">66</em>
+<span class="pdtImg2" data="2081726193:1009"><img alt="헤지스레이디스 HSDR9B777B2 러플장식 면 긴팔원피스" class="item-img" src="http://image.hyundaihmall.com/static/1/6/72/81/2081726193_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">헤지스레이디스 HSDR9B777B2 러플장식 면 긴팔원피스</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>160,150</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<strong class="review">상품평 <em class="review-count">1<input name="review_id" type="hidden" value="1009:2081726193:N"/></em></strong>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2077892286">
+<em class="rank-number">67</em>
+<span class="pdtImg2" data="2077892286:1009"><img alt="헤지스레이디스 WSTS8BS80R2 브이넥 면 반팔티셔츠" class="item-img" src="http://image.hyundaihmall.com/static/2/2/89/77/2077892286_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">헤지스레이디스 WSTS8BS80R2 브이넥 면 반팔티셔츠</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>37,830</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<strong class="review">상품평 <em class="review-count">2<input name="review_id" type="hidden" value="1009:2077892286:N"/></em></strong>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2077010318">
+<em class="rank-number">68</em>
+<span class="pdtImg2" data="2077010318:1009"><img alt="헤지스레이디스 WSDR8BS80N2 벨티드 면혼방 반팔원피스" class="item-img" src="http://image.hyundaihmall.com/static/3/0/01/77/2077010318_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">헤지스레이디스 WSDR8BS80N2 벨티드 면혼방 반팔원피스</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>152,740</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<strong class="review">상품평 <em class="review-count">2<input name="review_id" type="hidden" value="1009:2077010318:N"/></em></strong>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2077172501">
+<em class="rank-number">69</em>
+<span class="pdtImg2" data="2077172501:1009"><img alt="헤지스남성 HZTS9B405N2 퍼피패치 면혼방 반팔카라티셔츠" class="item-img" src="http://image.hyundaihmall.com/static/5/2/17/77/2077172501_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">헤지스남성 HZTS9B405N2 퍼피패치 면혼방 반팔카라티셔츠</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>72,240</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<strong class="review">상품평 <em class="review-count">1<input name="review_id" type="hidden" value="1009:2077172501:N"/></em></strong>
+</span>
+</a>
+</li>
+<li class="last-item">
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2081501809">
+<em class="rank-number">70</em>
+<span class="pdtImg2" data="2081501809:1009"><img alt="[J by(제이바이)](TV홈쇼핑상품)블랑 텐셀 썸머 투피스" class="item-img" src="http://image.hyundaihmall.com/static/8/1/50/81/2081501809_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">[J by(제이바이)](TV홈쇼핑상품)블랑 텐셀 썸머 투피스</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>32,760</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<strong class="review">상품평 <em class="review-count">9<input name="review_id" type="hidden" value="1009:2081501809:N"/></em></strong>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2079582337">
+<em class="rank-number">71</em>
+<span class="pdtImg2" data="2079582337:1009"><img alt="헤지스레이디스 HSDR9B774N2 턱장식 반팔원피스" class="item-img" src="http://image.hyundaihmall.com/static/3/2/58/79/2079582337_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">헤지스레이디스 HSDR9B774N2 턱장식 반팔원피스</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>166,010</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<strong class="review">상품평 <em class="review-count">1<input name="review_id" type="hidden" value="1009:2079582337:N"/></em></strong>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2082445371">
+<em class="rank-number">72</em>
+<span class="pdtImg2" data="2082445371:1009"><img alt="W몰 에고이스트 펀칭 니트 원피스 EK2JK605" class="item-img" src="http://image.hyundaihmall.com/static/3/5/44/82/2082445371_0_300.jpg"/></span>
+<span class="item-point">W몰 에고이스트</span>
+<span class="item-name">W몰 에고이스트 펀칭 니트 원피스 EK2JK605</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>판매가</span> <strong>89,000</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<span class="flag none"></span>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2080534219">
+<em class="rank-number">73</em>
+<span class="pdtImg2" data="2080534219:1009"><img alt="[쉬즈미스] 19 여름신상 골드라벨 벨티드 린넨 원피스_SWWOPJ23010" class="item-img" src="http://image.hyundaihmall.com/static/2/4/53/80/2080534219_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">[쉬즈미스] 19 여름신상 골드라벨 벨티드 린넨 원피스_SWWOPJ23010</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>81,910</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<strong class="review">상품평 <em class="review-count">1<input name="review_id" type="hidden" value="1009:2080534219:N"/></em></strong>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2081071454">
+<em class="rank-number">74</em>
+<span class="pdtImg2" data="2081071454:1009"><img alt="(TV홈쇼핑상품/무료배송) NNF 여성 스카시 앙상블 가디건 3종 택1" class="item-img" src="http://image.hyundaihmall.com/static/4/1/07/81/2081071454_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">(TV홈쇼핑상품/무료배송) NNF 여성 스카시 앙상블 가디건 3종 택1</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>8,910</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<strong class="review">상품평 <em class="review-count">3<input name="review_id" type="hidden" value="1009:2081071454:N"/></em></strong>
+</span>
+</a>
+</li>
+<li class="last-item">
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2078613409">
+<em class="rank-number">75</em>
+<span class="pdtImg2" data="2078613409:1009"><img alt="헤지스레이디스 HSDR9B992N2 절개라인 반팔원피스" class="item-img" src="http://image.hyundaihmall.com/static/4/3/61/78/2078613409_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">헤지스레이디스 HSDR9B992N2 절개라인 반팔원피스</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>155,390</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<span class="flag none"></span>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2067890363">
+<em class="rank-number">76</em>
+<span class="pdtImg2" data="2067890363:1009"><img alt="[타미힐피거진] [여성] 코튼혼방 인디고 반소매 셔츠 원피스 TUMS2OZE82A0 D50" class="item-img" src="http://image.hyundaihmall.com/static/3/0/89/67/2067890363_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">[타미힐피거진] [여성] 코튼혼방 인디고 반소매 셔츠 원피스 TUMS2OZE82A0 D50</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>판매가</span> <strong>111,000</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<strong class="review">상품평 <em class="review-count">4<input name="review_id" type="hidden" value="1009:2067890363:N"/></em></strong>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2078393812">
+<em class="rank-number">77</em>
+<span class="pdtImg2" data="2078393812:1009"><img alt="[SJYP] 니트 카라 반소매 원피스 PWMT2KO01900 067" class="item-img" src="http://image.hyundaihmall.com/static/8/3/39/78/2078393812_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">[SJYP] 니트 카라 반소매 원피스 PWMT2KO01900 067</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>163,170</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<strong class="review">상품평 <em class="review-count">2<input name="review_id" type="hidden" value="1009:2078393812:N"/></em></strong>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2064797303">
+<em class="rank-number">78</em>
+<span class="pdtImg2" data="2064797303:1009"><img alt="[타미힐피거진][여성] 코튼 반소매 스트라이프 티셔츠 TUMS1KOE55D0 R77" class="item-img" src="http://image.hyundaihmall.com/static/3/7/79/64/2064797303_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">[타미힐피거진][여성] 코튼 반소매 스트라이프 티셔츠 TUMS1KOE55D0 R77</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>판매가</span> <strong>43,200</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<strong class="review">상품평 <em class="review-count">4<input name="review_id" type="hidden" value="1009:2064797303:N"/></em></strong>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2081409270">
+<em class="rank-number">79</em>
+<span class="pdtImg2" data="2081409270:1009"><img alt="[더일마][theilma] 더일마 멀티 컬러 LOMA 재킷 " class="item-img" src="http://image.hyundaihmall.com/static/2/9/40/81/2081409270_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">[더일마][theilma] 더일마 멀티 컬러 LOMA 재킷 </span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>151,050</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<span class="flag none"></span>
+</span>
+</a>
+</li>
+<li class="last-item">
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2075871979">
+<em class="rank-number">80</em>
+<span class="pdtImg2" data="2075871979:1009"><img alt="[마르조] [2종]여성센슈얼자켓N베스트세트" class="item-img" src="http://image.hyundaihmall.com/static/9/1/87/75/2075871979_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">[마르조] [2종]여성센슈얼자켓N베스트세트</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>33,830</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<strong class="review">상품평 <em class="review-count">3<input name="review_id" type="hidden" value="1009:2075871979:N"/></em></strong>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2081391547">
+<em class="rank-number">81</em>
+<span class="pdtImg2" data="2081391547:1009"><img alt="[나이스클랍] 밴딩형 면 배기팬츠 a192bwp404   2001아울렛 중계" class="item-img" src="http://image.hyundaihmall.com/static/5/1/39/81/2081391547_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">[나이스클랍] 밴딩형 면 배기팬츠 a192bwp404   2001아울렛 중계</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>판매가</span> <strong>74,500</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<span class="flag none"></span>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2080165115">
+<em class="rank-number">82</em>
+<span class="pdtImg2" data="2080165115:1009"><img alt="(TV홈쇼핑상품/무료배송) NNF 여성 쿨컬러 썸머팬츠 4종 택1" class="item-img" src="http://image.hyundaihmall.com/static/1/5/16/80/2080165115_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">(TV홈쇼핑상품/무료배송) NNF 여성 쿨컬러 썸머팬츠 4종 택1</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>8,910</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<strong class="review">상품평 <em class="review-count">9<input name="review_id" type="hidden" value="1009:2080165115:N"/></em></strong>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2078402207">
+<em class="rank-number">83</em>
+<span class="pdtImg2" data="2078402207:1009"><img alt="[SJYP] 컬러믹스 배색 카라 니트 PWMT1KU02900 071" class="item-img" src="http://image.hyundaihmall.com/static/2/2/40/78/2078402207_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">[SJYP] 컬러믹스 배색 카라 니트 PWMT1KU02900 071</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>137,970</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<span class="flag none"></span>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2078622907">
+<em class="rank-number">84</em>
+<span class="pdtImg2" data="2078622907:1009"><img alt="헤지스남성 WHTS8B141WT 스트라이프 면 반팔티셔츠" class="item-img" src="http://image.hyundaihmall.com/static/9/2/62/78/2078622907_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">헤지스남성 WHTS8B141WT 스트라이프 면 반팔티셔츠</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>36,990</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<span class="flag none"></span>
+</span>
+</a>
+</li>
+<li class="last-item">
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2077892799">
+<em class="rank-number">85</em>
+<span class="pdtImg2" data="2077892799:1009"><img alt="헤지스레이디스 WSTS8BS83G3 퍼피자수 면 반팔카라티셔츠" class="item-img" src="http://image.hyundaihmall.com/static/7/2/89/77/2077892799_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">헤지스레이디스 WSTS8BS83G3 퍼피자수 면 반팔카라티셔츠</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>61,770</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<span class="flag none"></span>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2077026650">
+<em class="rank-number">86</em>
+<span class="pdtImg2" data="2077026650:1009"><img alt="헤지스레이디스 WSSH8B779N2 체크 린넨혼방 긴팔셔츠" class="item-img" src="http://image.hyundaihmall.com/static/6/6/02/77/2077026650_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">헤지스레이디스 WSSH8B779N2 체크 린넨혼방 긴팔셔츠</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>60,420</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<strong class="review">상품평 <em class="review-count">1<input name="review_id" type="hidden" value="1009:2077026650:N"/></em></strong>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2076076062">
+<em class="rank-number">87</em>
+<span class="pdtImg2" data="2076076062:1009"><img alt="헤지스남성 HZTS9B913BK [PHIZ]퍼피자수 면 반팔티셔츠" class="item-img" src="http://image.hyundaihmall.com/static/0/6/07/76/2076076062_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">헤지스남성 HZTS9B913BK [PHIZ]퍼피자수 면 반팔티셔츠</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>47,010</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<strong class="review">상품평 <em class="review-count">1<input name="review_id" type="hidden" value="1009:2076076062:N"/></em></strong>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2078404363">
+<em class="rank-number">88</em>
+<span class="pdtImg2" data="2078404363:1009"><img alt="[SJYP] [여성] 트리플 컨버스백 PWMS2AG53900 001" class="item-img" src="http://image.hyundaihmall.com/static/3/4/40/78/2078404363_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">[SJYP] [여성] 트리플 컨버스백 PWMS2AG53900 001</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>80,460</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<span class="flag none"></span>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2079176594">
+<em class="rank-number">89</em>
+<span class="pdtImg2" data="2079176594:1009"><img alt="헤지스레이디스 HSSH9B309R2 퍼피자수 린넨 긴팔셔츠" class="item-img" src="http://image.hyundaihmall.com/static/5/6/17/79/2079176594_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">헤지스레이디스 HSSH9B309R2 퍼피자수 린넨 긴팔셔츠</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>117,430</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<span class="flag none"></span>
+</span>
+</a>
+</li>
+<li class="last-item">
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2079176334">
+<em class="rank-number">90</em>
+<span class="pdtImg2" data="2079176334:1009"><img alt="헤지스레이디스 HSSH9B309N2 퍼피자수 린넨 긴팔셔츠" class="item-img" src="http://image.hyundaihmall.com/static/3/6/17/79/2079176334_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">헤지스레이디스 HSSH9B309N2 퍼피자수 린넨 긴팔셔츠</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>117,430</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<span class="flag none"></span>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2064341624">
+<em class="rank-number">91</em>
+<span class="pdtImg2" data="2064341624:1009"><img alt="[타미힐피거진] [여성] 레귤러 덩거리 오버롤 데님 팬츠 TUMS1EDE31A0D40" class="item-img" src="http://image.hyundaihmall.com/static/6/1/34/64/2064341624_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">[타미힐피거진] [여성] 레귤러 덩거리 오버롤 데님 팬츠 TUMS1EDE31A0D40</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>판매가</span> <strong>99,000</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<span class="flag none"></span>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2081005227">
+<em class="rank-number">92</em>
+<span class="pdtImg2" data="2081005227:1009"><img alt="헤지스레이디스 HSPA9B770IV [인생슬랙스] 스트레이트 슬랙스" class="item-img" src="http://image.hyundaihmall.com/static/2/5/00/81/2081005227_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">헤지스레이디스 HSPA9B770IV [인생슬랙스] 스트레이트 슬랙스</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>108,120</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<span class="flag none"></span>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2081075350">
+<em class="rank-number">93</em>
+<span class="pdtImg2" data="2081075350:1009"><img alt="[더일마][theilma] 더블 레이어드 넥 드레스" class="item-img" src="http://image.hyundaihmall.com/static/3/5/07/81/2081075350_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">[더일마][theilma] 더블 레이어드 넥 드레스</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>75,050</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<span class="flag none"></span>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2079778770">
+<em class="rank-number">94</em>
+<span class="pdtImg2" data="2079778770:1009"><img alt="[리스트] 19SS 골드라벨 슬리브리스 린넨 원피스_TWWOPJ63010" class="item-img" src="http://image.hyundaihmall.com/static/7/8/77/79/2079778770_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">[리스트] 19SS 골드라벨 슬리브리스 린넨 원피스_TWWOPJ63010</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>75,840</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<span class="flag none"></span>
+</span>
+</a>
+</li>
+<li class="last-item">
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2079175594">
+<em class="rank-number">95</em>
+<span class="pdtImg2" data="2079175594:1009"><img alt="헤지스레이디스 HSDR9B782N2 스트랩 면혼방 셔츠형원피스" class="item-img" src="http://image.hyundaihmall.com/static/5/5/17/79/2079175594_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">헤지스레이디스 HSDR9B782N2 스트랩 면혼방 셔츠형원피스</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>118,410</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<span class="flag none"></span>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2082606799">
+<em class="rank-number">96</em>
+<span class="pdtImg2" data="2082606799:1009"><img alt="(TV홈쇼핑상품/무료배송) 루시앙 페미닌 레이스 셋업 (SD11541)" class="item-img" src="http://image.hyundaihmall.com/static/7/6/60/82/2082606799_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">(TV홈쇼핑상품/무료배송) 루시앙 페미닌 레이스 셋업 (SD11541)</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>26,820</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<span class="flag none"></span>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2077893551">
+<em class="rank-number">97</em>
+<span class="pdtImg2" data="2077893551:1009"><img alt="헤지스레이디스 WSTS8BS87N2 스트라이프 린넨혼방 보트넥반팔티셔츠" class="item-img" src="http://image.hyundaihmall.com/static/5/3/89/77/2077893551_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">헤지스레이디스 WSTS8BS87N2 스트라이프 린넨혼방 보트넥반팔티셔츠</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>58,830</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<span class="flag none"></span>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2081722670">
+<em class="rank-number">98</em>
+<span class="pdtImg2" data="2081722670:1009"><img alt="[오즈세컨] 러플 스트라이프 반소매 탑 O21J5WTOS12WPK" class="item-img" src="http://image.hyundaihmall.com/static/6/2/72/81/2081722670_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">[오즈세컨] 러플 스트라이프 반소매 탑 O21J5WTOS12WPK</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>131,670</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<span class="flag none"></span>
+</span>
+</a>
+</li>
+<li>
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2080613307">
+<em class="rank-number">99</em>
+<span class="pdtImg2" data="2080613307:1009"><img alt="[오즈세컨] 면 비즈 크루넥 티셔츠 O21J5TTO081WWT" class="item-img" src="http://image.hyundaihmall.com/static/3/3/61/80/2080613307_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">[오즈세컨] 면 비즈 크루넥 티셔츠 O21J5TTO081WWT</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>131,670</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<span class="flag none"></span>
+</span>
+</a>
+</li>
+<li class="last-item">
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2080334193">
+<em class="rank-number">100</em>
+<span class="pdtImg2" data="2080334193:1009"><img alt="W몰 에고이스트 데님 레이스프린트 맥시원피스 EK2WO166" class="item-img" src="http://image.hyundaihmall.com/static/1/4/33/80/2080334193_0_300.jpg"/></span>
+<span class="item-point">W몰 에고이스트</span>
+<span class="item-name">W몰 에고이스트 데님 레이스프린트 맥시원피스 EK2WO166</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>135,830</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<span class="flag none"></span>
+</span>
+</a>
+</li>
+<!-- // -->
+</ul>
+</div>]
+<a class="item-box" href="/front/pda/itemPtc.do?slitmCd=2081498123">
+<em class="rank-number">1</em>
+<span class="pdtImg2" data="2081498123:1009"><img alt="[J by(제이바이)](TV홈쇼핑상품)워싱코튼100 원피스1종" class="item-img" src="http://image.hyundaihmall.com/static/1/8/49/81/2081498123_0_300.jpg"/></span>
+<span class="item-point"></span>
+<span class="item-name">[J by(제이바이)](TV홈쇼핑상품)워싱코튼100 원피스1종</span>
+<span class="item-price">
+<!--  일반상품. 여행 . 모바일상품권 . 초고가상품  -->
+<span>혜택가</span> <strong>32,760</strong><span>원</span>
+<!-- 렌탈 -->
+<!-- 보험-->
+<!-- 휴대폰 -->
+<!-- Hmall 장기할부 -->
+</span>
+<span class="item-store-review">
+<strong class="review">상품평 <em class="review-count">69<input name="review_id" type="hidden" value="1009:2081498123:N"/></em></strong>
+</span>
+</a>
